@@ -1,4 +1,4 @@
-# Dotfiles
+# Dotfiles for GitHub Codespaces
 
 > personal dotfiles set ups
 
@@ -7,6 +7,10 @@
 ### Basic
 
 * zsh
-    * [theme]spaceship
+  * [theme]spaceship
 
 ### JavaScript
+
+* cli
+  * gatsby cli
+  * vue cli
